@@ -33,12 +33,12 @@ public class Movment : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A))
         {
             MoveLane(-1);
-            p_Animator.Play("dogeLeft");
+            p_Animator.Play("dodgeLeft");
         }
         else if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D))
         {
             MoveLane(1);
-            p_Animator.Play("dogeRight");
+            p_Animator.Play("dodgeRight");
         }
     }
     private void MoveLane(int direction)

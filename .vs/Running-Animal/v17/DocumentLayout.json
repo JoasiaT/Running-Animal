@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Repozytorium\\Running Animal\\Running-Animal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3D5B6C5-2635-736F-431E-149B3B203DA0}|Assembly-CSharp.csproj|c:\\repozytorium\\running animal\\running-animal\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3D5B6C5-2635-736F-431E-149B3B203DA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3D5B6C5-2635-736F-431E-149B3B203DA0}|Assembly-CSharp.csproj|c:\\repozytorium\\running animal\\running-animal\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D5B6C5-2635-736F-431E-149B3B203DA0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3D5B6C5-2635-736F-431E-149B3B203DA0}|Assembly-CSharp.csproj|c:\\repozytorium\\running animal\\running-animal\\assets\\movment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3D5B6C5-2635-736F-431E-149B3B203DA0}|Assembly-CSharp.csproj|solutionrelative:assets\\movment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3D5B6C5-2635-736F-431E-149B3B203DA0}|Assembly-CSharp.csproj|c:\\repozytorium\\running animal\\running-animal\\assets\\scripts\\wolfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3D5B6C5-2635-736F-431E-149B3B203DA0}|Assembly-CSharp.csproj|C:\\Repozytorium\\Running Animal\\Running-Animal\\assets\\scripts\\wolfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3D5B6C5-2635-736F-431E-149B3B203DA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wolfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Repozytorium\\Running Animal\\Running-Animal\\Assets\\Script\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
+              "ToolTip": "C:\\Repozytorium\\Running Animal\\Running-Animal\\Assets\\Script\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T21:27:01.963Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,7 +45,7 @@
               "RelativeDocumentMoniker": "Assets\\Movment.cs",
               "ToolTip": "C:\\Repozytorium\\Running Animal\\Running-Animal\\Assets\\Movment.cs",
               "RelativeToolTip": "Assets\\Movment.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCMAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T11:34:26.611Z",
               "EditorCaption": ""
@@ -47,21 +60,7 @@
               "RelativeToolTip": "Assets\\Scripts\\WolfController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwCMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T11:06:15.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Repozytorium\\Running Animal\\Running-Animal\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "C:\\Repozytorium\\Running Animal\\Running-Animal\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T11:06:06.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T11:06:15.921Z"
             }
           ]
         }

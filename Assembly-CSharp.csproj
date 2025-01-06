@@ -67,6 +67,7 @@
     <Compile Include="Assets\Supercyan Character Pack Animal People Sample\Scripts\FreeCameraLogic.cs" />
     <Compile Include="Assets\Supercyan Character Pack Animal People Sample\Scripts\SimpleSampleCharacterControl.cs" />
     <Compile Include="Assets\Supercyan Character Pack Animal People Sample\Scripts\AccessoryWearLogic.cs" />
+    <Compile Include="Assets\Script\GroundController.cs" />
     <Compile Include="Assets\Supercyan Character Pack Animal People Sample\Scripts\DemoFree.cs" />
   </ItemGroup>
   <ItemGroup>

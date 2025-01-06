@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{E3D5B6C5-2635-736F-431E-149B3B203DA0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3D5B6C5-2635-736F-431E-149B3B203DA0}|Assembly-CSharp.csproj|c:\\repozytorium\\running animal\\running-animal\\assets\\movment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3D5B6C5-2635-736F-431E-149B3B203DA0}|Assembly-CSharp.csproj|C:\\Repozytorium\\Running Animal\\Running-Animal\\assets\\movment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3D5B6C5-2635-736F-431E-149B3B203DA0}|Assembly-CSharp.csproj|solutionrelative:assets\\movment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
               "ToolTip": "C:\\Repozytorium\\Running Animal\\Running-Animal\\Assets\\Script\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T21:27:01.963Z",
               "EditorCaption": ""
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "Assets\\Movment.cs",
               "ToolTip": "C:\\Repozytorium\\Running Animal\\Running-Animal\\Assets\\Movment.cs",
               "RelativeToolTip": "Assets\\Movment.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T11:34:26.611Z",
               "EditorCaption": ""

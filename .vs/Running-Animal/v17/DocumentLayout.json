@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Repozytorium\\Running Animal\\Running-Animal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E3D5B6C5-2635-736F-431E-149B3B203DA0}|Assembly-CSharp.csproj|c:\\repozytorium\\running animal\\running-animal\\assets\\script\\groundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D5B6C5-2635-736F-431E-149B3B203DA0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\groundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3D5B6C5-2635-736F-431E-149B3B203DA0}|Assembly-CSharp.csproj|c:\\repozytorium\\running animal\\running-animal\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3D5B6C5-2635-736F-431E-149B3B203DA0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,32 +31,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GroundController.cs",
+              "DocumentMoniker": "C:\\Repozytorium\\Running Animal\\Running-Animal\\Assets\\Script\\GroundController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GroundController.cs",
+              "ToolTip": "C:\\Repozytorium\\Running Animal\\Running-Animal\\Assets\\Script\\GroundController.cs",
+              "RelativeToolTip": "Assets\\Script\\GroundController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T19:15:26.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Repozytorium\\Running Animal\\Running-Animal\\Assets\\Script\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
               "ToolTip": "C:\\Repozytorium\\Running Animal\\Running-Animal\\Assets\\Script\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T21:27:01.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Movment.cs",
               "DocumentMoniker": "C:\\Repozytorium\\Running Animal\\Running-Animal\\Assets\\Movment.cs",
               "RelativeDocumentMoniker": "Assets\\Movment.cs",
               "ToolTip": "C:\\Repozytorium\\Running Animal\\Running-Animal\\Assets\\Movment.cs",
               "RelativeToolTip": "Assets\\Movment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T11:34:26.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T11:34:26.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "WolfController.cs",
               "DocumentMoniker": "C:\\Repozytorium\\Running Animal\\Running-Animal\\Assets\\Scripts\\WolfController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WolfController.cs",
